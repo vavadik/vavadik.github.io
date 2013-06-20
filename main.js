@@ -1,18 +1,33 @@
 $(document).ready(function() {
     game = new Game(400,600);
-    game.start();
+    game.start();    
 });
 
 Game = function(width, height)
 {
     gameField = new Field(width, height);
     grav = 10;
-    ball = new Ball(100, 100, 10);
+    ball = new Ball(100, 500, 10);
+    clickAction = 'target';
 
     this.start = function()
     {
         setInterval(update, 20);
     }
+
+    $('svg').bind(
+        'click',
+        function(e){
+            ball.move($V([e.offsetX, e.offsetY]), clickAction);
+        }
+    );
+
+    $('#methodSelect').bind(
+        'change',
+        function(e){
+            clickAction = e.currentTarget.value;
+        }
+    );
 
     function update()
     {
@@ -24,7 +39,7 @@ Game = function(width, height)
         this.elast = 0.8;
         this.friction = 0.9;
         this.position = $V([x,y]);
-        this.speed = $V([1000,0]);
+        this.speed = $V([0,0]);
         this.radius = radius;
         this.ro = 1;
         this.mass = Math.PI * this.radius * this.radius * this.ro;
@@ -38,9 +53,13 @@ Game = function(width, height)
                 this.speed = $V([this.speed.e(1) * this.friction, this.speed.e(2) * -this.elast]);
                 this.position = $V([this.position.e(1), gameField.realHeight - this.radius]);
             }
+            if(this.position.e(2) <= this.radius)
+            {
+                this.speed = $V([this.speed.e(1) * this.friction, this.speed.e(2) * -this.elast]);
+                this.position = $V([this.position.e(1), this.radius]);
+            }
             if(this.position.e(1) >= gameField.realWidth - this.radius)
             {
-                console.log('+1');
                 this.speed = $V([this.speed.e(1) * - this.elast, this.speed.e(2)]);
                 this.position = $V([gameField.realWidth - this.radius, this.position.e(2)]);
             }
@@ -53,7 +72,23 @@ Game = function(width, height)
             this.position = this.position.add(this.speed.multiply(1/50));
             this.circle.attr('cx', this.position.e(1));
             this.circle.attr('cy', this.position.e(2));
-            console.log(this.speed.modulus());
+        }
+
+        this.move = function(target, method)
+        {
+            switch(method)
+            {
+                case 'target':
+                    this.speed = $V([target.e(1) - this.position.e(1), target.e(2) - this.position.e(2)]).toUnitVector().multiply(1000);
+                break;
+                case 'instant':
+                    this.position = target;
+                    this.speed = $V([0,0]);
+                break;
+                default:
+                    this.position = target;
+                break;
+            }
         }
     }
 }
