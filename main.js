@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    game = new Game(400,600);
+    game = new Game(800, 400);
     game.start();    
 });
 
