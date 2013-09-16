@@ -14,6 +14,8 @@ $(document).ready(function() {
         var offset =  $(this).offset();
         var relX = e.pageX - offset.left;
         var relY = e.pageY - offset.top;
+        var radius = parseFloat($("#radius").val());
+        radius = radius == undefined ? 6 : radius;
         switch (e.which)
         {
             case 1: // left button
