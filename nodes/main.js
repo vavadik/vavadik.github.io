@@ -1,3 +1,4 @@
+document.oncontextmenu = function() {return false;};
 $(document).ready(function() {
     pap = new Paper(1366,768);
     mouseX=0;
@@ -8,7 +9,7 @@ $(document).ready(function() {
     //     mouseX = e.pageX;
     //     mouseY = e.pageY;
     // });
-    $('#drawing').click(function(e)
+    $('#drawing').mousedown(function(e)
     {
         //var offset = $(this).parent().offset(); 
         var offset =  $(this).offset();
@@ -16,14 +17,15 @@ $(document).ready(function() {
         var relY = e.pageY - offset.top;
         var radius = parseFloat($("#radius").val());
         radius = radius == undefined ? 6 : radius;
-        switch (e.which)
+        switch (e.button)
         {
-            case 1: // left button
+            case 0: // left button
             r = parseFloat($("#radius").val());
             pap.addNode(relX, relY, r, '#f00');
             break;
-            case 2: // middle button
+            case 2: // right button
             pap.selectNode(relX, relY);
+            return false;
             break;
             default: alert('you have a strange mouse');            
         }
