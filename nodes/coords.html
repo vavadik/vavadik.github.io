@@ -1,0 +1,18 @@
+<html>
+<head>
+<script>
+function show_coords(event)
+  {
+  var x=event.clientX
+  var y=event.clientY
+  alert("X coords: " + x + ", Y coords: " + y)
+  }
+</script>
+</head>
+
+<body>
+
+<p onmousedown="show_coords(event)">Click this paragraph, and an alert box will alert the x and y coordinates of the mouse pointer.</p>
+
+</body>
+</html>
