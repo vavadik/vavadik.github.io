@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+	<link href="nn.css" rel="stylesheet">
+	<script src="jquery.js"></script>
+	<style>
+		@-webkit-keyframes rainbowaction1 {
+			0% {top: 138px;}
+			25% {top: 137px;}
+			50% {top: 138px;}
+			75% {top: 139px;}
+			100% {top: 138px;}
+		}
+		@-webkit-keyframes rainbowaction2 {
+			0% {top: 138px;}
+			25% {top: 139px;}
+			50% {top: 138px;}
+			75% {top: 137px;}
+			100% {top: 138px;}
+		}
+		-moz-keyframes rainbowaction1 {
+			0% {top: 138px;}
+			25% {top: 137px;}
+			50% {top: 138px;}
+			75% {top: 139px;}
+			100% {top: 138px;}
+		}
+		-moz-keyframes rainbowaction2 {
+			0% {top: 138px;}
+			25% {top: 139px;}
+			50% {top: 138px;}
+			75% {top: 137px;}
+			100% {top: 138px;}
+		}
+	</style>
+	<title>Nyan</title>
+</head>
+<body>
+	<audio autoplay src="audio.mp3"></audio>
+	<div class="sun"></div>
+	<div class="beams"></div>
+	<div class="bodytest"></div>
+	<div class="cat">
+		<div class="body1"></div>
+		<div class="body2"></div>
+		<div class="head">
+			<div class="head1"></div>
+			<div class="head2"></div>
+			<div class="ear1"></div>
+			<div class="ear2"></div>
+			<div class="face"></div>
+		</div>
+		<div class="feet"></div>
+		<div class="tail1"></div>
+		<div class="tail2"></div>
+		<div class="tail3"></div>
+	</div>
+	<div class="city"></div>
+	<script>
+		var i;
+		var N="rainbow1";
+		var L=0;
+		var an=1;
+		for (i=0; i<24; i++) {
+			$('body').append('<div class='+N+'></div>');
+			$('.'+N).css({
+				'position': 'absolute',
+				'background': 'red',
+				'z-index': '-1',
+				'width': '25px',
+				'height': '5px',
+				'left': L+'px',
+				'top': '138px',
+				'box-shadow': '0px 5px orange, 0px 10px yellow, 0px 15px green, 0px 20px lightblue, 0px 25px blue, 0px 30px indigo',
+				'-webkit-animation': 'rainbowaction'+an+' 0.5s linear 0s infinite'});
+			L=L+25;
+			if(an==1) an=2;
+			else an=1;
+			N=N+1;
+		}
+	</script>	
+</body>
