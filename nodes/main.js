@@ -1,6 +1,6 @@
 document.oncontextmenu = function() {return false;};
 $(document).ready(function() {
-    pap = new Paper(1366,768);
+    pap = new Paper(1920,1080);
     mouseX=0;
     mouseY=0;
     //alert(-10%1366);
