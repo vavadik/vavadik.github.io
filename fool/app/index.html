@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Fool</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="../node_modules/bootstrap/dist/css/bootstrap.css" media="screen"
+          title="no title" charset="utf-8">
+</head>
+<body ng-app="fool">
+<script src="../node_modules/jquery/dist/jquery.js" charset="utf-8"></script>
+<script src="../node_modules/angular/angular.js" charset="utf-8"></script>
+<script src="../node_modules/bootstrap/dist/js/bootstrap.js" charset="utf-8"></script>
+<script src="js/card.js" charset="utf-8"></script>
+<script src="js/player.js" charset="utf-8"></script>
+<script src="js/app.js" charset="utf-8"></script>
+
+<div id="gameField" ng-controller="GameController as game">
+    <div class="" ng-hide="game.gameStarted">
+        <button type="button" name="button" ng-click="game.startNewGame()">Start new game</button>
+    </div>
+    <div id="gameField" ng-show="game.gameStarted">
+        <div class="enemy-hand">
+            <div class="enemy-cards">
+                <div class="card back" ng-repeat="enemyCard in game.enemy.cards"></div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="desk" id="desk">
+            <div class="desk-move-cards" id="deskMoveCards">
+                <div ng-click="game.playerStrike(key)" class="card {{card.move.class}}" ng-repeat="(key, card) in game.desk.cards"></div>
+            </div>
+            <div class="" id="deskStrikeCards">
+                <div ng-click="game.playerStrike(key)" class="card {{card.strike.class}}" ng-repeat="(key, card) in game.desk.cards"></div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="player-hand" id="playerHand">
+            <div class="player-cards">
+                <div ng-click="game.playerMoveCard($event, key, playerCard)" class="card {{playerCard.class}}"
+                     ng-repeat="(key, playerCard) in game.player.cards"></div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <button ng-click="game.buttonAction()" type="button" ng-show="game.showButton" name="button">
+            {{game.buttonText}}
+        </button>
+    </div>
+    <div class="" id="status">
+        {{game.statusText}}
+    </div>
+    <div class="trump">
+        Козырь: {{game.trumpText[game.trump]}}
+    </div>
+    <div id="cardsCount">
+        Осталось в колоде: {{game.cardSet.getCardsLeft()}}
+    </div>
+</div>
+</body>
+</html>

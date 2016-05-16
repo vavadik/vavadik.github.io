@@ -1,0 +1,97 @@
+div.card {
+    width: 140px;
+    height: 190px;
+    background-size: 1300% 100%;
+    display: inline-block;
+}
+
+div.card.clubs {
+    background-image: url(../img/clubsSprite.png);
+}
+
+div.card.hearts {
+    background-image: url(../img/heartsSprite.png);
+}
+
+div.card.diamonds {
+    background-image: url(../img/diamondsSprite.png);
+}
+
+div.card.spades {
+    background-image: url(../img/spadesSprite.png);
+}
+
+div.card.back {
+    background-image: url(../img/backsSprite.png);
+    background-position: 8.33% 0;
+}
+
+div.card.value2 {
+    background-position: 0 0;
+}
+
+div.card.value3 {
+    background-position: 8.33% 0;
+}
+
+div.card.value4 {
+    background-position: 16.66% 0;
+}
+
+div.card.value5 {
+    background-position: 24.99% 0;
+}
+
+div.card.value6 {
+    background-position: 33.32% 0;
+}
+
+div.card.value7 {
+    background-position: 41.65% 0;
+}
+
+div.card.value8 {
+    background-position: 49.98% 0;
+}
+
+div.card.value9 {
+    background-position: 58.31% 0;
+}
+
+div.card.value10 {
+    background-position: 66.64% 0;
+}
+
+div.card.value11 {
+    background-position: 74.97% 0;
+}
+
+div.card.value12 {
+    background-position: 83.3% 0;
+}
+
+div.card.value13 {
+    background-position: 91.63% 0;
+}
+
+div.card.value14 {
+    background-position: 99.96% 0;
+}
+
+.clear {
+    clear: both;
+}
+
+div.desk {
+    height: 310px;
+    padding: 30px 0;
+}
+
+div.desk-move-cards {
+    height: 60px;
+}
+
+.selected-card {
+    position: relative;
+    top: -25px;
+}
