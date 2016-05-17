@@ -4,25 +4,22 @@
     app.controller('GameController', function () {
         this.gameStarted = false;
         this.playerTurn = true;
-
         this.player = new Player();
         this.enemy = new Enemy();
         this.cardSet = new CardSet();
         this.desk = new CardDesk();
         this.trump = '';
         this.showButton = true;
+        this.buttonText = 'Новая игра';
         this.selectedCard = false;
         this.selectedKey = false;
-
         this.trumpText = {
             hearts: 'Черва',
             diamonds: 'Бубна',
             clubs: 'Креста',
             spades: 'Пика'
         };
-
-        this.buttonText = "Ход";
-        this.statusText = 'Нажмите "Старт"';
+        this.statusText = 'Нажми "Старт"';
 
         this.playerMoveCard = function ($event, cardKey, card) {
             if (!this.gameStarted) {
@@ -31,7 +28,7 @@
             if (this.playerTurn) {
                 if (this.desk.move(card)) {
                     this.player.cards.splice(cardKey, 1);
-                    this.statusText = 'Нажмите "Ход" для завершения хода';
+                    this.statusText = 'Ходи!';
                     this.buttonText = 'Ход';
                     this.buttonAction = this.playerFinishMove;
                 }
@@ -45,18 +42,21 @@
         };
 
         this.playerStrike = function (key) {
-            if(this.playerTurn) {
+            if (this.playerTurn) {
                 return;
             }
-            if(this.selectedCard === false || this.selectedKey === false) {
+            if (this.selectedCard === false || this.selectedKey === false) {
                 return;
             }
-            if(this.desk.strike(this.selectedCard, key, this.trump)) {
-                this.player.cards.splice(this.selectedIndex, 1);
-                this.finishTurn();
+            this.checkGameEnd();
+            if (this.desk.strike(this.selectedCard, key, this.trump)) {
+                this.player.cards.splice(this.selectedKey, 1);
+                if (!this.player.cards.length || this.desk.checkTurnEnd() && !this.enemy.addMove(this.desk)) {
+                    this.finishTurn();
+                }
+                this.selectedKey = false;
+                this.selectedCard = false;
             }
-            this.selectedIndex = false;
-            this.selectedCard = false;
         };
 
         this.playerFinishMove = function () {
@@ -86,6 +86,7 @@
         };
 
         this.finishTurn = function () {
+            this.checkGameEnd();
             if (this.playerTurn) {
                 this.player.fillCards(this.cardSet);
                 if (this.desk.checkTurnEnd()) {
@@ -95,12 +96,12 @@
                     this.buttonText = 'Беру =(';
                     this.statusText = 'Бейся!';
                     this.desk.turnEnd();
-                    this.enemy.move(this.desk, this.trump);
+                    this.enemy.move(this.desk, this.trump, this.player.cards.length);
                 } else {
                     this.enemy.addCard(this.desk.getAllCards());
                     this.desk.turnEnd();
                     this.buttonAction = this.playerFinishMove;
-                    this.statusText = 'Нажмите "Ход" для завершения хода';
+                    this.statusText = 'Ходи!';
                     this.buttonText = 'Ход';
                 }
             } else {
@@ -112,29 +113,32 @@
                     this.playerTurn = true;
                     this.player.fillCards(this.cardSet);
                     this.buttonAction = this.playerFinishMove;
-                    this.statusText = 'Нажмите "Ход" для завершения хода';
+                    this.statusText = 'Ходи!';
                     this.buttonText = 'Ход';
                     this.desk.turnEnd();
                 } else {
                     this.player.addCard(this.desk.getAllCards());
                     this.desk.turnEnd();
-                    this.enemy.move(this.desk, this.trump);
+                    this.enemy.move(this.desk, this.trump, this.player.cards.length);
                 }
             }
-            if(!this.enemy.cards.length) {
+            this.checkGameEnd();
+        };
+
+        this.checkGameEnd = function () {
+            if (!this.enemy.cards.length) {
                 this.statusText = 'Ты проиграл!';
                 this.buttonAction = this.startNewGame;
                 this.buttonText = 'Новая игра';
-            } else if(!this.player.cards.length) {
+            } else if (!this.player.cards.length) {
                 this.statusText = 'Ты выиграл!';
                 this.buttonAction = this.startNewGame;
                 this.buttonText = 'Новая игра';
             }
         };
 
-        this.buttonAction = this.playerFinishMove;
-
         this.startNewGame = function () {
+            this.buttonAction = this.playerFinishMove;
             this.gameStarted = true;
             this.playerTurn = true;
             this.desk.turnEnd();
@@ -145,7 +149,9 @@
             this.enemy.cards = [];
             this.player.fillCards(this.cardSet);
             this.enemy.fillCards(this.cardSet);
-            this.statusText = 'Выберите карты для хода';
+            this.statusText = 'Выбери карты для хода';
+            this.buttonText = 'Ход';
         };
+        this.buttonAction = this.startNewGame;
     });
 })();

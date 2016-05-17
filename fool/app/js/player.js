@@ -9,7 +9,6 @@ Player.prototype.addCard = function (card) {
     } else {
         this.cards.push(card);
     }
-    console.log(this.cards);
 };
 
 Player.prototype.fillCards = function (cardSet) {
@@ -46,7 +45,8 @@ function Enemy() {
         }
     };
 
-    this.move = function (desk, trump) {
+    this.move = function (desk, trump, playerCardsCount) {
+        playerCardsCount = playerCardsCount || 6;
         var smallestIndex = false,
             smallestValue = 14,
             isTrump = true;
@@ -65,9 +65,26 @@ function Enemy() {
         }
 
         if (desk.move(this.cards[smallestIndex])) {
-            console.log('moved');
             this.cards.splice(smallestIndex, 1);
+            this.addMove(desk, playerCardsCount);
         }
+    };
+
+    this.addMove = function (desk, maxToMove) {
+        maxToMove = maxToMove || 6;
+        var moved = false,
+            movedCards = 0;
+        for(var i in this.cards) {
+            if(movedCards >= maxToMove) {
+                break;
+            }
+            if (desk.move(this.cards[i])) {
+                moved = true;
+                this.cards.splice(i, 1);
+                movedCards++;
+            }
+        }
+        return moved;
     };
 }
 

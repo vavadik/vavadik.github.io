@@ -41,6 +41,10 @@ function CardSet(startVal, endVal) {
         return set[set.length - 1].type;
     };
 
+    this.getTrumpCard = function () {
+        return set[set.length - 1];
+    };
+
     this.getCardsLeft = function () {
         return set.length;
     }
@@ -59,6 +63,9 @@ function CardDesk() {
 
     this.checkMove = function (card) {
         if (this.cards.length) {
+            if (this.cards.length >= 6) {
+                return false;
+            }
             for (var i in this.cards) {
                 if (this.cards[i].move.value == card.value || this.cards[i].strike && this.cards[i].strike.value == card.value) {
                     return true;
@@ -80,7 +87,9 @@ function CardDesk() {
     };
 
     this.strike = function (card, index, trump) {
-        console.log(index);
+        if (this.cards[index] && this.cards[index].strike) {
+            return false;
+        }
         var avail = this.checkStrike(this.cards[index].move, card, trump);
         if (avail) {
             this.cards[index].strike = card;

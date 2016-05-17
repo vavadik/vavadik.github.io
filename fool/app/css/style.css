@@ -95,3 +95,88 @@ div.desk-move-cards {
     position: relative;
     top: -25px;
 }
+
+div.player-cards, div.enemy-cards {
+    margin-bottom: 150px;
+}
+
+div.player-cards div.card-container {
+    float: left;
+    height: 60px;
+}
+
+div.enemy-cards div.card-container {
+    float: left;
+    height: 20px;
+}
+
+div.player-cards:after, div.enemy-cards:after {
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.suit-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding-top: 6px;
+}
+
+.suit-icon > i {
+    background-image: url(../img/suits.png);
+    background-size: 40px auto;
+    width: 18px;
+    height: 20px;
+    display: block;
+}
+
+.suit-icon.suit-icon-hearts > i {
+    background-position: 18px 0px;
+}
+
+.suit-icon.suit-icon-spades > i {
+    background-position: 18px 19px;
+}
+
+.suit-icon.suit-icon-diamonds > i {
+    background-position: 0px 19px;
+}
+
+.suit-icon.suit-icon-clubs > i {
+    background-position: 0 0;
+}
+
+.card-set-card {
+    display: inline-block;
+    width: 3px;
+    z-index: 100;
+}
+
+.card-set-card:nth-of-type(1n+10) {
+    display: none;
+}
+
+.card-set-last-card {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    z-index: -1;
+}
+
+.card-set-last-card .card {
+    transform: rotate(90deg);
+}
+
+div.card-set-cards {
+    padding-left: 30px;
+}
+
+.card-set-number {
+    position: absolute;
+    top: 50px;
+    left: 85px;
+    font-size: 50px;
+    color: #fff;
+}
