@@ -1,0 +1,531 @@
+#EXTM3U
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/1" tvg-id="ded0e8a525112fe8c6d3737dd638e40b",1HD Music Television
+http://test:test@ru.tvmax.tech:9981/stream/channelid/636014814?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/2" tvg-id="2fff397e5b2bef64d833030ac2570dcd",2х2
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2117730095?profile=pass
+#EXTINF:-1 tvg-id="bedad90fcc9ad062e2b93df6fcf47e20",360 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/265935550?profile=pass
+#EXTINF:-1 tvg-id="a2cd11b035e118ebf74184a0212f23bf",360 Новости HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/806473122?profile=pass
+#EXTINF:-1 tvg-id="14494a4a45ec988f87febb89dbf8c56f",5 канал
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1246382356?profile=pass
+#EXTINF:-1 tvg-id="3b64f5c18bfa0748226682ea693f0c34",A 1 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1106601019?profile=pass
+#EXTINF:-1 tvg-id="3a7ba7d42f494c064f98ede885aaa3a4",A2 ПРО ЛЮБОВЬ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1420262202?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/3" tvg-id="4e1f20a4d20ebf4b20906b0ecaffade3",AMEDIA HIT HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/606084942?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/4" tvg-id="00f62862e0bba53fa01ed6a4095b9511",Amedia Premium
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1646851584?profile=pass
+#EXTINF:-1 tvg-id="58a672ebb6e8fe4109d09860b8dfbd7f",Amedia Premium HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1802675800?profile=pass
+#EXTINF:-1 tvg-id="87a260bbf1b7295c65a2eea06d22cac8",ANI
+http://test:test@ru.tvmax.tech:9981/stream/channelid/996188807?profile=pass
+#EXTINF:-1 tvg-id="4682fd4a005180a614fa34e928768def",Animal Planet
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1258127942?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/5" tvg-id="9222083ce68dc0baabadfce6d9606700",Animal Planet HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1007166098?profile=pass
+#EXTINF:-1 tvg-id="21566507ac418592fb0536c977ecc7a3",Babes TV HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/124081697?profile=pass
+#EXTINF:-1 tvg-id="a72ab9b2e13d2adf2adac7903cba1eec",Baby TV
+http://test:test@ru.tvmax.tech:9981/stream/channelid/850995879?profile=pass
+#EXTINF:-1 tvg-id="6de902104f76a53b543551a063eda7f3",BBC World News
+http://test:test@ru.tvmax.tech:9981/stream/channelid/268626285?profile=pass
+#EXTINF:-1 tvg-id="9b499fd3db0893fc7a0e24831ce0dcc8",Bollywood HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1402947995?profile=pass
+#EXTINF:-1 tvg-id="c8d164fde6ec4ec02689809d8d151b3a",BOLT
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2103759304?profile=pass
+#EXTINF:-1 tvg-id="8393ec63921f68464c7343c9242b43a3",Boomerang
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1676448643?profile=pass
+#EXTINF:-1 tvg-id="b5230cf581e72629fc777a8595fa1c88",Brazzers TV Europe
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1963729845?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/6" tvg-id="50d51be19cd3ee364ba6f0b06674a2af",BRIDGE HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1629214032?profile=pass
+#EXTINF:-1 tvg-id="0b2e5166f5dfa2012381749bdddc46c4",Bridge TV
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1716596235?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/7" tvg-id="537240af7c23e21a0c6ef4f7e51f6336",BRIDGE TV CLASSIC
+http://test:test@ru.tvmax.tech:9981/stream/channelid/792752723?profile=pass
+#EXTINF:-1 tvg-id="ab6b25a1a4119c4369007446bb6be0c8",BRIDGE TV DANCE
+http://test:test@ru.tvmax.tech:9981/stream/channelid/556100523?profile=pass
+#EXTINF:-1 tvg-id="50db22b46d938efa30f2270059d3a7ed",BRIDGE TV РУССКИЙ ХИТ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/874699600?profile=pass
+#EXTINF:-1 tvg-id="17e982fe9ad3049de0d4ee00c1efb7c6",Cartoon Network HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2122508567?profile=pass
+#EXTINF:-1 tvg-id="2842d1a36a580b285d33fa85f1425432",Clubbing TV HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/600916520?profile=pass
+#EXTINF:-1 tvg-id="f5a24f178822775b5a16e7d21ecc0ede",CNN International
+http://test:test@ru.tvmax.tech:9981/stream/channelid/391095029?profile=pass
+#EXTINF:-1 tvg-id="113194b1937364deae1c12b3d3b076e3",Da Vinci
+http://test:test@ru.tvmax.tech:9981/stream/channelid/831795473?profile=pass
+#EXTINF:-1 tvg-id="96ffd54901ed528f424623f209584845",Discovery Channel
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1238761366?profile=pass
+#EXTINF:-1 tvg-id="64eac4aec88bbd75a13591a4172a2e47",Discovery Channel HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/784656996?profile=pass
+#EXTINF:-1 tvg-id="f12b51ae93c224dce9cbd258600860d9",Discovery Science
+http://test:test@ru.tvmax.tech:9981/stream/channelid/777071601?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/8" tvg-id="bf8a2869de075d438b910844f51f0077",Discovery Science HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1764264639?profile=pass
+#EXTINF:-1 tvg-id="eabc136fe5a4cd912dfff649074a011d",DTX
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1863564522?profile=pass
+#EXTINF:-1 tvg-id="3cf234e15b0c43ea05e2f6b80b101ce6",DTX HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1630859836?profile=pass
+#EXTINF:-1 tvg-id="e60396c4188d45f495f637438e21f77d",DW-TV
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1150682086?profile=pass
+#EXTINF:-1 tvg-id="ee380ac587f135a91a122caf9956dd28",E
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1158297838?profile=pass
+#EXTINF:-1 tvg-id="4ae15f9aa4de217d940b5d21b4f7bb5a",English Club HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/442491210?profile=pass
+#EXTINF:-1 tvg-id="85aabb935853d3397b3c45a7591ee1c4",Eurochannel
+http://test:test@ru.tvmax.tech:9981/stream/channelid/331065989?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/9" tvg-id="a875187f574f4051e0cd105fe20a30a6",Euronews
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2132309416?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/10" tvg-id="f6656432ec6b9a68a89f9a082c03efe3",EUROPA PLUS TV
+http://test:test@ru.tvmax.tech:9981/stream/channelid/845440502?profile=pass
+#EXTINF:-1 tvg-id="a93924766edb9f5ca2b6079418a9df90",Eurosport 1
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1982085545?profile=pass
+#EXTINF:-1 tvg-id="23518d39274188973a26cf5cdb41a9a3",Eurosport 1 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/965562659?profile=pass
+#EXTINF:-1 tvg-id="8e10d40794a3a90d3ed6c9c5350fa121",Eurosport Gold
+http://test:test@ru.tvmax.tech:9981/stream/channelid/131338382?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/11" tvg-id="643f74ed9deffd4ba289d982b52282da",Eurosport Gold HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1836334948?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/12" tvg-id="b4996618cdbc9c883f682a70fe85246d",Extreme Sports
+http://test:test@ru.tvmax.tech:9981/stream/channelid/409377204?profile=pass
+#EXTINF:-1 tvg-id="ea2aef3b2abe915de6d37d7c33f7c6d2",FAN HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1005529834?profile=pass
+#EXTINF:-1 tvg-id="7aba56659b17371cdc49003013f8584e",FashionTV
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1700182650?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/13" tvg-id="ee79fd9e40b10c5c0d5d0e4b0d551aed",Food Network HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/519928302?profile=pass
+#EXTINF:-1 tvg-id="4a79da693919a9a67d3c38483c758127",FOX HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1775925578?profile=pass
+#EXTINF:-1 tvg-id="1a73dacf6d2e5b05cfc0a14bd472100a",Fox Life HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1339716378?profile=pass
+#EXTINF:-1 tvg-id="6b7a1a1ce99a59cc696d6b7de99a8f75",France 24 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/471497323?profile=pass
+#EXTINF:-1 tvg-id="46f11555bf182e3533f69612419e0fac",FUEL TV HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1427501382?profile=pass
+#EXTINF:-1 tvg-id="b7a20e5cea5284134b046a7c74636215",Gulli Girl
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1544463031?profile=pass
+#EXTINF:-1 tvg-id="7b71124cbdd8458f859ca93395e721f8",H2 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1276277115?profile=pass
+#EXTINF:-1 tvg-id="c3a441703957c64e2ea309d90d10e0df",History HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1883350211?profile=pass
+#EXTINF:-1 tvg-id="333e2a2a980d322ca2e1ed07ec2cf4e4",iConcerts HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/707411507?profile=pass
+#EXTINF:-1 tvg-id="db318b3091415be297dcdb98c391e39d",ID: Investigation Discovery
+http://test:test@ru.tvmax.tech:9981/stream/channelid/814428635?profile=pass
+#EXTINF:-1 tvg-id="4b25a7b8adc923f20675cbbacc209779",ID: Investigation Discovery HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/950478155?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/14" tvg-id="94838d410a8530c161b2b1b6c3147bb3",JimJam
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1099793300?profile=pass
+#EXTINF:-1 tvg-id="c03a537507916bde683effb5e7ffb2e1",M-1 Global
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1968388800?profile=pass
+#EXTINF:-1 tvg-id="399688ef442ae5867659949b915d023e",MCM TOP
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1871222329?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/15" tvg-id="187e528d207fd8cfef16b53ca651944d",Mezzo Live HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/223510040?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/16" tvg-id="9e83ad158b8f0cf628c140278477d41b",MTV Dance
+http://test:test@ru.tvmax.tech:9981/stream/channelid/363692958?profile=pass
+#EXTINF:-1 tvg-id="083a21c5f7bac944bdb08f18b04518e8",MTV HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1159805448?profile=pass
+#EXTINF:-1 tvg-id="cb4467d330b89be007387ef6ee14af4d",MTV Hits
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1399276747?profile=pass
+#EXTINF:-1 tvg-id="d28e1c6cc090dc35b08a2bd988aef098",MTV Live HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1813810898?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/17" tvg-id="5178bfe4f18f40c8fc6b25ba8ca2ca6e",MTV Rocks
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1690269777?profile=pass
+#EXTINF:-1 tvg-id="f64c1a20f373a9149ae5c169f1b43a06",MUSEUM HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/538594550?profile=pass
+#EXTINF:-1 tvg-id="ea38b6eba498b89b532328bd72069f7f",MUSICBOX
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1807104234?profile=pass
+#EXTINF:-1 tvg-id="46969733ab74d2be4abd17c64fb6bd23",My Zen TV HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/865572422?profile=pass
+#EXTINF:-1 tvg-id="63aaf076b31314b42adbe6e3b7577f39",NAT Geo Wild
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1995483747?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/18" tvg-id="c4b1a85889d24a3a058bef7fed78d958",Nat Geo Wild HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1487450564?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/19" tvg-id="a7f4f04cbaf5eb298e109d6ddbec6c94",National Geographic
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1290859687?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/20" tvg-id="3b512d8ec3bd691f06f9f58cccee856e",National Geographic HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/237850939?profile=pass
+#EXTINF:-1 tvg-id="94226c3a6e7e5bd15f10894f4b7bb250",NHK WORLD-JAPAN
+http://test:test@ru.tvmax.tech:9981/stream/channelid/980165268?profile=pass
+#EXTINF:-1 tvg-id="a68c5a70289582abf44a90443b980cb3",Nick Jr.
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1884982438?profile=pass
+#EXTINF:-1 tvg-id="164593b6a820bcd64ed41e0a11e7c829",Nickelodeon
+http://test:test@ru.tvmax.tech:9981/stream/channelid/915621142?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/21" tvg-id="db9cfbfbede7704b685b247676355733",Nickelodeon HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2080087259?profile=pass
+#EXTINF:-1 tvg-id="9641ed4420bb23a60afc7d3e1504e733",O2TV
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1156399510?profile=pass
+#EXTINF:-1 tvg-id="b1aa593e9109f49a301b8d2d1915b798",Paramount Channel
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1046063793?profile=pass
+#EXTINF:-1 tvg-id="cf1823b871681d0068cd397dabca4ba8",Paramount Channel HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/941824207?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/22" tvg-id="08f8f0004e7adc6cea46e302359018d1",Paramount Comedy HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/15792136?profile=pass
+#EXTINF:-1 tvg-id="055bcb039dad5761a27e6de4fb4aedad",REN-TV HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/63658757?profile=pass
+#EXTINF:-1 tvg-id="1f152d61c59908d59edcca173405db20",RTG HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1630344479?profile=pass
+#EXTINF:-1 tvg-id="cf2fd5f35e21f8a903fc4ba5bd5a85d1",RTTV HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1943351247?profile=pass
+#EXTINF:-1 tvg-id="63ed6dbf08a2f0ef63962d70dfb8fadb",RTД HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1064168803?profile=pass
+#EXTINF:-1 tvg-id="0c514c33719dd32e3ab3c6527ab5dee8",RU.TV HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/860639500?profile=pass
+#EXTINF:-1 tvg-id="2eef12542450d4a164d3973e19a10daf",RUSSIAN MUSICBOX HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1410527022?profile=pass
+#EXTINF:-1 tvg-id="e75df29ac7b2492965d41cb4d1b70a40",Shop&Show
+http://test:test@ru.tvmax.tech:9981/stream/channelid/452091367?profile=pass
+#EXTINF:-1 tvg-id="12697f95145d5f51cc3a1cb6ddd248c1",Shop24
+http://test:test@ru.tvmax.tech:9981/stream/channelid/360671506?profile=pass
+#EXTINF:-1 tvg-id="bb5eaf6731fb74e9e170f2d15016dbf6",Shopping Live
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1739546299?profile=pass
+#EXTINF:-1 tvg-id="025e2cbadf71a2dc26922e554814812e",SHOT TV
+http://test:test@ru.tvmax.tech:9981/stream/channelid/975986178?profile=pass
+#EXTINF:-1 tvg-id="dc0a4c309014a29d3e865c743550ecb6",Sony Channel HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/810289884?profile=pass
+#EXTINF:-1 tvg-id="c1f06a7d467323a8dd3fff94c8147106",Sony Sci-Fi
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2104160449?profile=pass
+#EXTINF:-1 tvg-id="d9003b6bf11496d139b28557fcf3c0b1",Spike HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1799028953?profile=pass
+#EXTINF:-1 tvg-id="c6496cdb40992dede9f0ce1f7a77998d",Star Cinema
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1533823430?profile=pass
+#EXTINF:-1 tvg-id="edea5a993ddd8722150e7d347d680dc7",Star Family
+http://test:test@ru.tvmax.tech:9981/stream/channelid/425388781?profile=pass
+#EXTINF:-1 tvg-id="fc636d51f532a0ca64edb235e6c8b201",TiJi
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1366123516?profile=pass
+#EXTINF:-1 tvg-id="7808996e1b830cb9a86c4de2fb49a96d",TLC
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1855522936?profile=pass
+#EXTINF:-1 tvg-id="575f05964c7b204d32829d18512cf971",TLC HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/369450839?profile=pass
+#EXTINF:-1 tvg-id="2d5d23b8904441202c2d42711ebae8d2",Travel and Adventure HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/941841709?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/23" tvg-id="0ae61ed95ea1b8ad840b7f1bbff9708f",Travel Channel HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1495197194?profile=pass
+#EXTINF:-1 tvg-id="969b3dcf4d2027b91434081ea0dc283d",TV 1000 Action HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1329437590?profile=pass
+#EXTINF:-1 tvg-id="7d24dfa7038434ec2923736b39db2d94",TV 1000 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/668935293?profile=pass
+#EXTINF:-1 tvg-id="8f2ee5fa940d6807ccf8d20c3c72866d",TV 1000 Русское кино HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2061840015?profile=pass
+#EXTINF:-1 tvg-id="bf5b67dd99fe372596e3002bd0cb7eeb",TV XXI Век
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1567054783?profile=pass
+#EXTINF:-1 tvg-id="f1991d3c6953f814d4b2530a6eba3b7f",UFC ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1008572913?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/24" tvg-id="29e05059408136f2394e195524a09e1a",VH1 Classic
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1498472489?profile=pass
+#EXTINF:-1 tvg-id="51f1f5186fb00b7aaa8abbdc39356790",VH1 European
+http://test:test@ru.tvmax.tech:9981/stream/channelid/418771281?profile=pass
+#EXTINF:-1 tvg-id="a0532798de721138de399af572e59d7e",Viasat Explore HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/405230496?profile=pass
+#EXTINF:-1 tvg-id="c8bdce1cc4a743b05aca48bb70d1bec7",Viasat History HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/483311048?profile=pass
+#EXTINF:-1 tvg-id="c2b41662ddf8b7b99dd2769bfa57cb69",Viasat Nature HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1645655234?profile=pass
+#EXTINF:-1 tvg-id="af2f62058be7f8c5ac0a801427e4cd26",Viasat Nature HD/History HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/90320815?profile=pass
+#EXTINF:-1 tvg-id="d489a0f6af3339164d0943d2e05e6a38",Viasat Sport
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1990232532?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/25" tvg-id="a914d101a370e314403dcdd4ec65b84c",Viasat Sport HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/30479529?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/26" tvg-id="d17ab3900adca5158e28338ca1f2de37",ViP Comedy HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/280197841?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/27" tvg-id="37cba3c6483e16fe4d9cb68e53bd259b",ViP Megahit HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1185139511?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/28" tvg-id="c7cc63ec6ef6f6764b7b8b1d5605bf85",ViP Premiere HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1818479815?profile=pass
+#EXTINF:-1 tvg-id="0d5a0b4ca7bf79e5e0cc63514da60e04",ViP Serial
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1275812365?profile=pass
+#EXTINF:-1 tvg-id="58e47d2252aa4f546676988054844cd3",WORLD FASHION CHANNEL HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/578675800?profile=pass
+#EXTINF:-1 tvg-id="ae7b97fcc18d25c2afeb232fec5277af",Zee TV
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2090302382?profile=pass
+#EXTINF:-1 tvg-id="176739a5c019a07f0073880d0bfe6dab",Авто плюс
+http://test:test@ru.tvmax.tech:9981/stream/channelid/624518935?profile=pass
+#EXTINF:-1 tvg-id="795bea7da2eca2dd715c6c304ff8b854",Анекдот ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2112510841?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/29" tvg-id="e9e8b4348830ef086e539a845b5a8eda",БелРос
+http://test:test@ru.tvmax.tech:9981/stream/channelid/884271337?profile=pass
+#EXTINF:-1 tvg-id="b4f4f7bcedf25e8c6535fde3ae62cc0a",Беларусь 24
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1022882996?profile=pass
+#EXTINF:-1 tvg-id="6fe0b434bbd73a40bdf36d2a2af0ad9f",Бобёр
+http://test:test@ru.tvmax.tech:9981/stream/channelid/884269167?profile=pass
+#EXTINF:-1 tvg-id="0137c847ca9536dfd766dc3211d63db3",Большая Азия HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1204303617?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/30" tvg-id="94a318500e0f06b415cb6df9a6e8d72a",В гостях у сказки
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1343792020?profile=pass
+#EXTINF:-1 tvg-id="607c9e1c05f4e63c793e3dc9538f47b9",ВМЕСТЕ-РФ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/480148576?profile=pass
+#EXTINF:-1 tvg-id="a8aaa421388950e741f9fc2eb1610df5",Восток ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/564439720?profile=pass
+#EXTINF:-1 tvg-id="0e5e790b7a7ba8e9cd6431c001a1163f",Всё ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/192503310?profile=pass
+#EXTINF:-1 tvg-id="ecf183605e1d45912f9d63dc4b084ca1",ДОРАМА
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1619259884?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/31" tvg-id="8e3c34f7dc38dc093b88ba3dda5282df",Детский
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1999912078?profile=pass
+#EXTINF:-1 tvg-id="64b3467339a6e02b0fe420d19ca756bd",Детский Мир
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1934013284?profile=pass
+#EXTINF:-1 tvg-id="97bfd9537f6ff6999a5c9bdc99c52f53",Диалоги о рыбалке HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1406779287?profile=pass
+#EXTINF:-1 tvg-id="85c3114adc8ab795fad55d76df073dc8",Дикая охота HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1242678149?profile=pass
+#EXTINF:-1 tvg-id="ff2cf30aea82aa765629ea05dfe20b12",Дикая рыбалка HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/183708927?profile=pass
+#EXTINF:-1 tvg-id="55023c7804d4fa936f8b4b3765a83a60",Дикий
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2017198677?profile=pass
+#EXTINF:-1 tvg-id="0e8f548361fc5a80b21749239f02a258",Доверие
+http://test:test@ru.tvmax.tech:9981/stream/channelid/55873294?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/32" tvg-id="34172af95ca4d5131dad6d0980f1f907",Дом Кино
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2032801588?profile=pass
+#EXTINF:-1 tvg-id="083c41a0947366ab5c44acd14fca638c",Дом кино Премиум HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/541146120?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/33" tvg-id="eff9cbba23394706568908d52e7fbdb9",Домашний
+http://test:test@ru.tvmax.tech:9981/stream/channelid/986446319?profile=pass
+#EXTINF:-1 tvg-id="c16c175624977540bfe3360de198e10b",Драйв
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1444375745?profile=pass
+#EXTINF:-1 tvg-id="ede213c1eb982b1b0ccf4a7305d75556",Еврокино
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1091822317?profile=pass
+#EXTINF:-1 tvg-id="7e20b44fabbdf517d6fc439e46d95671",Еда
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1337204862?profile=pass
+#EXTINF:-1 tvg-id="ab3b0dc0d44b668c80c33d7fe75d2a19",Еда Премиум HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1074609067?profile=pass
+#EXTINF:-1 tvg-id="28c01b86bc7887693ee091b3f0911079",Жар Птица
+http://test:test@ru.tvmax.tech:9981/stream/channelid/102481960?profile=pass
+#EXTINF:-1 tvg-id="0fa8dbcef989c9fd096655a075149251",Жара HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1323018255?profile=pass
+#EXTINF:-1 tvg-id="a7175d36ac534a3721d3b883702838d3",Живая Планета
+http://test:test@ru.tvmax.tech:9981/stream/channelid/912070567?profile=pass
+#EXTINF:-1 tvg-id="93d7c5566c39cd5e399039b115920043",Живи!
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1455806355?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/34" tvg-id="f751d7f3f95247c0b454af7b38d8ae3f",Звезда
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1943491063?profile=pass
+#EXTINF:-1 tvg-id="98894b8927d3ebefd0d3b89a250c7a9f",Здоровое ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/155945368?profile=pass
+#EXTINF:-1 tvg-id="8a951de95eb681c64596f982fd6d49c4",Иллюзион +
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1763546506?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/35" tvg-id="126740342313d5e8be6724a9949db169",История
+http://test:test@ru.tvmax.tech:9981/stream/channelid/876635922?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/36" tvg-id="eb8bb661a78aef318ec3389879d92834",КВН ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1639353323?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/37" tvg-id="8a8818811def4d962d75c9a43cf3a767",КИНО ТВ HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/18385034?profile=pass
+#EXTINF:-1 tvg-id="dda7687000236dba7f41fe0580e311b1",КХЛ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1885906909?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/38" tvg-id="e42cdd6a3e991ac7d24e9ee56214535d",КХЛ HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1792879844?profile=pass
+#EXTINF:-1 tvg-id="56d21a2221f55398178e8b0f7a3d79c1",Калейдоскоп ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/572183126?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/39" tvg-id="bd60a1250fc3dd054e76a9ed57c899ed",Канал Disney
+http://test:test@ru.tvmax.tech:9981/stream/channelid/631333053?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/40" tvg-id="4a3b57a32dd321dec35accc1c53542ec",Карусель
+http://test:test@ru.tvmax.tech:9981/stream/channelid/592919370?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/41" tvg-id="52b1e3cfcb243b51e403541b640f245e",Кинокомедия
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1340322130?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/42" tvg-id="a17b02400eef9df2083a7ad8d7df22fd",Киномикс
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1073904545?profile=pass
+#EXTINF:-1 tvg-id="08c9e5cb458c197842ebcfaf684f55e6",Комедия
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1273350408?profile=pass
+#EXTINF:-1 tvg-id="ec3588fc839ca77002bcce59d257fbbf",Красная линия
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2089301484?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/43" tvg-id="abb3d36621707c01abf98a1dd599b1db",Кухня ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1725150123?profile=pass
+#EXTINF:-1 tvg-id="1eee1a235e10477eb916618056aec37b",ЛДПР ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/588967454?profile=pass
+#EXTINF:-1 tvg-id="1d30184fbac1e51503ffb7a60fe20384",Любимое кино
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1326985245?profile=pass
+#EXTINF:-1 tvg-id="74cb1cf25c36bdb434d0914026bab150",Ля-минор
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1914489716?profile=pass
+#EXTINF:-1 tvg-id="7ac992eb70b0ab7983ee566356e9add1",МАМА
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1804781946?profile=pass
+#EXTINF:-1 tvg-id="897c8c93ad1b2c26ff494f3484fb49f8",МАТЧ! АРЕНА HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/327974025?profile=pass
+#EXTINF:-1 tvg-id="c08598461f0f8f75d80119a881ad1c85",МАТЧ! БОЕЦ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1184400832?profile=pass
+#EXTINF:-1 tvg-id="0f0ffd9207d36bcbff0920f0703f0391",МАТЧ! ИГРА HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/318574351?profile=pass
+#EXTINF:-1 tvg-id="febacbb61c8c3551988a5d8dc1ef2f66",МАТЧ! Страна
+http://test:test@ru.tvmax.tech:9981/stream/channelid/919321342?profile=pass
+#EXTINF:-1 tvg-id="b1964b5f842c0088cc9369e05a35ea90",МАТЧ! ФУТБОЛ 1 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1598789297?profile=pass
+#EXTINF:-1 tvg-id="b764a9dddbef3032ddc90d000fd7e26a",МАТЧ! ФУТБОЛ 2 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1571382455?profile=pass
+#EXTINF:-1 tvg-id="731e9a5cbc818d7f6304902fbb562447",МАТЧ! ФУТБОЛ 3 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1553604211?profile=pass
+#EXTINF:-1 tvg-id="ac21226f14335e5d44f4ccb88c2ed9c9",МИР Premium
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1864507820?profile=pass
+#EXTINF:-1 tvg-id="0bf8e23093332910368a42c28d4fde0c",Матч ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/820181003?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/44" tvg-id="e53d067632830b66132124d8b35db14d",Матч ТВ HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1980120549?profile=pass
+#EXTINF:-1 tvg-id="5c893085cac210161b48cb0786e305ea",Матч! Премьер HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/87066972?profile=pass
+#EXTINF:-1 tvg-id="a0f99f05ad8e967d6d2637f92d802e70",Мир
+http://test:test@ru.tvmax.tech:9981/stream/channelid/94370208?profile=pass
+#EXTINF:-1 tvg-id="dd5318c69f6ccf21fa7e4720568e8d3d",Мир 24
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1175999453?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/45" tvg-id="7875b482b0bf6ab4b3173c307263fb22",Морской HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/45380984?profile=pass
+#EXTINF:-1 tvg-id="c5d02a088a341defcbfd1d4d52b9b07d",Москва 24
+http://test:test@ru.tvmax.tech:9981/stream/channelid/137023685?profile=pass
+#EXTINF:-1 tvg-id="46f8cbebc4b8d16eef836e232e2ab4a6",Моторспорт ТВ HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1808529478?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/46" tvg-id="debaf299a4c4af007bb0e08d34f4262e",Моя планета
+http://test:test@ru.tvmax.tech:9981/stream/channelid/435337950?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/47" tvg-id="23e1b755569a4b052324120ec020e373",Мужское кино
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1438114083?profile=pass
+#EXTINF:-1 tvg-id="525d4b779d2e9559806d09a6816d0ae9",Мужской
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2001427794?profile=pass
+#EXTINF:-1 tvg-id="43d7ed203252bf5fb7f70f6768aa4cc3",Муз ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/552458051?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/48" tvg-id="71f426fb4e8fa42678ab3bade55d142a",Мульт
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2066150513?profile=pass
+#EXTINF:-1 tvg-id="e31499be08b49739f8888165bc96c1be",Мультимузыка
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1050219747?profile=pass
+#EXTINF:-1 tvg-id="fcdeea858fc71186b78fb60b5508ce4e",НАШЕ ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/99278588?profile=pass
+#EXTINF:-1 tvg-id="25a8a5eb1583b65c9594d705769921a2",НСТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1806018597?profile=pass
+#EXTINF:-1 tvg-id="ffb1ea4351edd42944f21487f2bf3e7a",НТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1139454463?profile=pass
+#EXTINF:-1 tvg-id="f83c2d1e873734189d1ea0b9f89337d7",Нано HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/506281208?profile=pass
+#EXTINF:-1 tvg-id="6abcdbed2186813faaa3a6f54fcf5d59",Наука
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1843117162?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/49" tvg-id="6b4e08ab2a7dc2476fab884c443b21f0",Наше новое кино
+http://test:test@ru.tvmax.tech:9981/stream/channelid/721964651?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/50" tvg-id="dee450e8b0edb5abb3144ce3754ed305",Ностальгия
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1750131934?profile=pass
+#EXTINF:-1 tvg-id="c8a4827c100f4b27cb7b69b4326a8550",О!
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2088936648?profile=pass
+#EXTINF:-1 tvg-id="9c97d7e1c0547343fc89dec0cb4ce1c5",О, кино!
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1641519004?profile=pass
+#EXTINF:-1 tvg-id="559e44f3351ac52a0ca84ae4f69af746",О-ля-ля
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1933876821?profile=pass
+#EXTINF:-1 tvg-id="71edc5d3cedc6c40a556aa1e922beade",Общественное телевидение России
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1405480305?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/51" tvg-id="274eabd22ef2d408e5f5c0b588095665",Оружие
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1386958375?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/52" tvg-id="aa739a9b7ce8c4ec601762e166da6dec",Охота и рыбалка
+http://test:test@ru.tvmax.tech:9981/stream/channelid/463106986?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/53" tvg-id="76d17c50fb431b0d558f71d985c6eecf",Охотник и рыболов HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1350357366?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/54" tvg-id="f0c101af908488c52ba08734ca390fe9",Первый канал HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/788644336?profile=pass
+#EXTINF:-1 tvg-id="e4574a2b3e532fa5c826c86741713639",Первый образовательный
+http://test:test@ru.tvmax.tech:9981/stream/channelid/726292452?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/55" tvg-id="f528d0cb96cdc0afbf001fdee02ecd5a",Планета HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1271933173?profile=pass
+#EXTINF:-1 tvg-id="6d311c6989f669bb3efcd4eb37f26647",Победа HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1763455341?profile=pass
+#EXTINF:-1 tvg-id="a5366bcb5d2e471e953bc57e2aa0ae9e",Просвещение
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1265317541?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/56" tvg-id="116794c63534a0abad06bb46c967461f",Пятница
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1184130833?profile=pass
+#EXTINF:-1 tvg-id="fc334efe8e01e63f43ca03b413ddde2d",Пёс и Ко
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2119054332?profile=pass
+#EXTINF:-1 tvg-id="2fb0c55bdca85f6c90e15a8d38e3f18d",РБК-ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1539682351?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/57" tvg-id="cff6f8be9affaed89e02adf90db1e62a",РЕН ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1056503503?profile=pass
+#EXTINF:-1 tvg-id="a0485699d202c07f918e978e78c9f8b4",РЕТРО
+http://test:test@ru.tvmax.tech:9981/stream/channelid/425085088?profile=pass
+#EXTINF:-1 tvg-id="bc05c840aad2d6917e9f36f1539fd9b6",Радость Моя
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1086850492?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/58" tvg-id="3041157f70bf30c4ea0696b2d104f3b2",Родное кино
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2132099376?profile=pass
+#EXTINF:-1 tvg-id="d9863c9c5aa4f9c91826efffafbadc73",Россия 1
+http://test:test@ru.tvmax.tech:9981/stream/channelid/473728729?profile=pass
+#EXTINF:-1 tvg-id="0b0c38b0027aa8aee3508c69fc003826",Россия 1 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/808979467?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/59" tvg-id="3084b7ad3fd28a76bb9d660402fbae0e",Россия 24
+http://test:test@ru.tvmax.tech:9981/stream/channelid/767001648?profile=pass
+#EXTINF:-1 tvg-id="bc46f59c2235840dfcc94f0a011a92bd",Россия К
+http://test:test@ru.tvmax.tech:9981/stream/channelid/485836476?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/60" tvg-id="1d99147395ed34001fc692e178940635",Русская ночь
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1930729757?profile=pass
+#EXTINF:-1 tvg-id="868f3fae8b5595ff7ec8bc7bd9a55a73",Русский Бестселлер
+http://test:test@ru.tvmax.tech:9981/stream/channelid/775917446?profile=pass
+#EXTINF:-1 tvg-id="1c6503b1f8b4605a1f4afbc789f4ed11",Русский Иллюзион
+http://test:test@ru.tvmax.tech:9981/stream/channelid/822306076?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/61" tvg-id="d564e33251ead29b9170f6f738c091f0",Русский детектив
+http://test:test@ru.tvmax.tech:9981/stream/channelid/853763285?profile=pass
+#EXTINF:-1 tvg-id="7d45397d30ffa7e1a847a677a109dc8e",Русский роман HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2100905341?profile=pass
+#EXTINF:-1 tvg-id="2a67fe3afe7159de0c968c83deca687f",Русский экстрим
+http://test:test@ru.tvmax.tech:9981/stream/channelid/989751082?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/62" tvg-id="2be35e0832a0cef3f16fbfa11ff90bbd",СТС
+http://test:test@ru.tvmax.tech:9981/stream/channelid/140436267?profile=pass
+#EXTINF:-1 tvg-id="15492dd84f883dfffa4aa9efadc362d4",СТС Kids HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1479362837?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/63" tvg-id="4ed2b3c61243ffb4af2cf50efe66b81a",СТС Love
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1186189902?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/64" tvg-id="2f7d6a45a2208d257fad1c036b7d9fd6",Сарафан
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1164606767?profile=pass
+#EXTINF:-1 tvg-id="a1b6458a7b5c4c6d61124c8391389168",Синема
+http://test:test@ru.tvmax.tech:9981/stream/channelid/172340897?profile=pass
+#EXTINF:-1 tvg-id="8ff2948734cbc114b89c6e222070e6ef",Спас
+http://test:test@ru.tvmax.tech:9981/stream/channelid/127201935?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/65" tvg-id="b07d44238501c2fffdabe4fc33bd712c",Страшное HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/591691184?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/66" tvg-id="9a4686b783c9d9860c1936689a7b0168",Супер
+http://test:test@ru.tvmax.tech:9981/stream/channelid/931546778?profile=pass
+#EXTINF:-1 tvg-id="6440b9437b2f4e213bddcdb360b825bf",ТАЙНА
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1136214116?profile=pass
+#EXTINF:-1 tvg-id="ba345575b0c89ee2390cb42b38c1cc1b",ТВ "Центр"
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1968518330?profile=pass
+#EXTINF:-1 tvg-id="c831fac1f60f9fcbe3a036dfa40b81a8",ТВ 3
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1106915784?profile=pass
+#EXTINF:-1 tvg-id="c723490f91a31a1957a992b20ab6f28a",ТВОЙ ДОМ HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/256451527?profile=pass
+#EXTINF:-1 tvg-id="ef04d9233d02e92af45a62a6d6c3878c",ТЕХНО 24
+http://test:test@ru.tvmax.tech:9981/stream/channelid/601425135?profile=pass
+#EXTINF:-1 tvg-id="8ae31d6278bea4ef2c4eef36884495db",ТНТ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1646125962?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/67" tvg-id="a745017513954fdfe260185ee6f58aff",ТНТ HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1963017639?profile=pass
+#EXTINF:-1 tvg-id="53969527c80304b21ddbd884399ae0ca",ТНТ MUSIC
+http://test:test@ru.tvmax.tech:9981/stream/channelid/664114771?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/68" tvg-id="d5db6c9a5973955c36bfe55a867b2a48",ТНТ4
+http://test:test@ru.tvmax.tech:9981/stream/channelid/443341781?profile=pass
+#EXTINF:-1 tvg-id="11915876c0c634857652abccb53ce719",Тайны Галактики HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1985515793?profile=pass
+#EXTINF:-1 tvg-id="768cf0c4da327e2f7733c1bc414b10b1",Театр HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1156615286?profile=pass
+#EXTINF:-1 tvg-id="825c9e7253ee29b02be741ed24685c83",Телеканал "Доктор"
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1922980994?profile=pass
+#EXTINF:-1 tvg-id="0493bf821986270e5445153440b20787",Телеканал «Известия» HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/46109444?profile=pass
+#EXTINF:-1 tvg-id="7496f66d8a76b2a566eed80f235a4a59",Телеканал АВТО24 HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1844876916?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/69" tvg-id="937b0ea7e99a316014572fada727582b",Тлум HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/655260563?profile=pass
+#EXTINF:-1 tvg-id="f38c2735e265b037a9acab5bf1f28a32",Точка ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/891784435?profile=pass
+#EXTINF:-1 tvg-id="e868fd2abc59008354c55881f90729e7",Точка отрыва
+http://test:test@ru.tvmax.tech:9981/stream/channelid/721250536?profile=pass
+#EXTINF:-1 tvg-id="2b71aa2f0490e5bc69c6cb8b86fff512",Усадьба ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/799699243?profile=pass
+#EXTINF:-1 tvg-id="ef29a329ab68a9746de4849e308f9bd9",Феникс плюс кино
+http://test:test@ru.tvmax.tech:9981/stream/channelid/698558959?profile=pass
+#EXTINF:-1 tvg-id="132193caeae8aa0f7faf4d1c3b208e01",Футбол HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1251156243?profile=pass
+#EXTINF:-1 tvg-id="e7c578bd0f2ba0acddf618f288d86291",Центральное телевидение
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1031325159?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/70" tvg-id="c9ec56ce890204da419791be2ae896db",Че
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1314319561?profile=pass
+#EXTINF:-1 tvg-id="4ea8f5777b94ac05dd07ee7f11342075",Шалун HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/2012588110?profile=pass
+#EXTINF:-1 tvg-id="14fc49e56bb0706c3c36ee31ea854590",Шансон-ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1699347476?profile=pass
+#EXTINF:-1 tvg-id="f6ddf33cd2db01b0b400eb8ec67a0ca2",Шант Премиум HD
+http://test:test@ru.tvmax.tech:9981/stream/channelid/1022615030?profile=pass
+#EXTINF:-1 tvg-id="fa4fe52c466ea4cba2de6b3050a85fa2",Эхо-ТВ
+http://test:test@ru.tvmax.tech:9981/stream/channelid/753225722?profile=pass
+#EXTINF:-1 logo="http://test:test@ru.tvmax.tech:9981/imagecache/71" tvg-id="7b8f54aa03feebe9477f0f22674396be",Ю
+http://test:test@ru.tvmax.tech:9981/stream/channelid/710184827?profile=pass
+#EXTINF:-1 tvg-id="249d7e070d0ee1bd3fbeab6e20dd9a40",Ювелирочка
+http://test:test@ru.tvmax.tech:9981/stream/channelid/125738276?profile=pass
